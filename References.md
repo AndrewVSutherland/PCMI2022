@@ -1,5 +1,5 @@
-<h4 align="center"><b>Computational Tools for Number Theorists</b></h4>
-<h5 align="center">Some useful references for computational number theorist</h5>
+<h3 align="center"><b>Computational Tools for Number Theorists</b></h3>
+<h4 align="center">Some useful references</h4>
 <br>
 
 
