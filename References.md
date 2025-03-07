@@ -20,4 +20,4 @@
 - David A. Cox, John Little, and Donal O'Shea, *[Ideals, varieties, and algorithms](https://link.springer.com/book/10.1007/978-3-319-16721-3)*, 4th edition, Springer, 2015.
 - Victor Shoup, *[A computational introduction to number theory and algebra](https://shoup.net/ntb/)*, 2nd edition, Cambridge University Press, 2009.
 - William Stein, *[Modular forms, a computational approach](https://wstein.org/books/modform/modform/)*, AMS, 2007.
-- Andrew V. Sutherland, *[Elliptic curves](https://math.mit.edu/classes/18.783/2022/lectures.html)*, lecture notes for 18.783, MIT OpenCourseWare, 2021.
+- Andrew V. Sutherland, *[Elliptic curves](https://math.mit.edu/classes/18.783/2023/lectures.html)*, lecture notes for 18.783, MIT OpenCourseWare, 2021.
